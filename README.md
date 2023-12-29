@@ -1,6 +1,6 @@
 # Vithursana Somasundaram
 
-** 'Software Engineer (Developer)' **
+**Software Engineer (Developer)**
 
 I'm a medical engineering student graduate who loves coding and comes up with creative solutions! All projects have an unique spin to make them stand out from other projects.
 
