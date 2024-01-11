@@ -6,6 +6,10 @@ I'm a medical engineering student graduate who loves coding and comes up with cr
 
 ---
 
+### Projects can be found here ###
+
+https://github.com/vithursana/vithursana.github.io
+
 ###  Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
